@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I am a **Computer Science student in the Faculty of Computers & Information at Damanhour University**
+- 🔭 I am a **Graduated from the Faculty of Computers & Information at Damanhour University 2024 ,with 3.16 GPA**
 
 - 🌱 I’m currently learning **Flutter , problem solving with c++ programing language**
 
