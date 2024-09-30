@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I am a **Graduated from the Faculty of Computers & Information at Damanhour University 2024 ,with 3.16 GPA**
+- 🔭 I have a degree in **Computer Since 2024 ,GPA 3.3**
 
-- 🌱 I’m currently learning **Flutter , problem solving with c++ programing language**
+- 🌱 I have 2 years of experience for **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/alaa2024Mandour](https://github.com/alaa2024Mandour)
 
