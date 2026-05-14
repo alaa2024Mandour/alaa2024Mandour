@@ -32,13 +32,13 @@ Currently enrolled in a Backend Node.js course at **Route Academy** and gaining 
 
 ### 🔒 [Saraha App](https://github.com/alaa2024Mandour)
 Anonymous secret messaging platform
-- Built with **Express.js · TypeScript · MongoDB · Redis · AWS S3**
-- JWT Authentication · Zod Validation · Service & Repository Layer Architecture
+- Built with **Express.js · JavaScript · MongoDB · Redis · Cloudenary**
+- JWT Authentication · Joi Validation · Service & Repository Layer Architecture
 
 ### 📱 [Social Media App](https://github.com/alaa2024Mandour)
 Facebook-inspired social media platform
-- Built with **Express.js · JavaScript · MongoDB · AWS S3**
-- JWT Authentication · Joi Validation · Clean Architecture
+- Built with **Express.js · TypeScript · MongoDB · AWS S3**
+- JWT Authentication · Zode Validation · Clean Architecture
 
 ---
 
